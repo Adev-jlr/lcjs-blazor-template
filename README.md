@@ -1,4 +1,4 @@
-# Using LightningChart<sup>&#174; </sup> JS with Blazor
+# jlr Using LightningChart<sup>&#174; </sup> JS with Blazor
 This repository showcases the usage of LightningChart<sup>&#174;</sup> JS charting tools within a [Blazor][0] web application.
 
 More information about LightningChart<sup>&#174;</sup> JS can be found from our website, https://www.arction.com/lightningchart-js/
